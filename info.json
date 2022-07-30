@@ -1,0 +1,14 @@
+{
+    "name": "RemoveTintedConcrete",
+    "version": "0.0.1",
+    "title": "Remove Tinted Concrete",
+    "author": "drdozer",
+    "contact": "",
+    "homepage": "",
+    "license": "MIT https://opensource.org/licenses/MIT",
+    "factorio_version": "1.1",
+    "dependencies": [
+        "base >= 1.0.0"
+    ],
+    "description": "Remove the unused tinted concrete tiles from base to free up tiles for other mods."
+}
